@@ -1,0 +1,14 @@
+C:\Users\acari\OneDrive\Masaüstü\Ders Notları\Algoritma Projeleri\Uygulamalar 1\Uygulamalar 1\bin\Debug\net8.0\Uygulamalar 1.exe
+C:\Users\acari\OneDrive\Masaüstü\Ders Notları\Algoritma Projeleri\Uygulamalar 1\Uygulamalar 1\bin\Debug\net8.0\Uygulamalar 1.deps.json
+C:\Users\acari\OneDrive\Masaüstü\Ders Notları\Algoritma Projeleri\Uygulamalar 1\Uygulamalar 1\bin\Debug\net8.0\Uygulamalar 1.runtimeconfig.json
+C:\Users\acari\OneDrive\Masaüstü\Ders Notları\Algoritma Projeleri\Uygulamalar 1\Uygulamalar 1\bin\Debug\net8.0\Uygulamalar 1.dll
+C:\Users\acari\OneDrive\Masaüstü\Ders Notları\Algoritma Projeleri\Uygulamalar 1\Uygulamalar 1\bin\Debug\net8.0\Uygulamalar 1.pdb
+C:\Users\acari\OneDrive\Masaüstü\Ders Notları\Algoritma Projeleri\Uygulamalar 1\Uygulamalar 1\obj\Debug\net8.0\Uygulamalar 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acari\OneDrive\Masaüstü\Ders Notları\Algoritma Projeleri\Uygulamalar 1\Uygulamalar 1\obj\Debug\net8.0\Uygulamalar 1.AssemblyInfoInputs.cache
+C:\Users\acari\OneDrive\Masaüstü\Ders Notları\Algoritma Projeleri\Uygulamalar 1\Uygulamalar 1\obj\Debug\net8.0\Uygulamalar 1.AssemblyInfo.cs
+C:\Users\acari\OneDrive\Masaüstü\Ders Notları\Algoritma Projeleri\Uygulamalar 1\Uygulamalar 1\obj\Debug\net8.0\Uygulamalar 1.csproj.CoreCompileInputs.cache
+C:\Users\acari\OneDrive\Masaüstü\Ders Notları\Algoritma Projeleri\Uygulamalar 1\Uygulamalar 1\obj\Debug\net8.0\Uygulamalar 1.dll
+C:\Users\acari\OneDrive\Masaüstü\Ders Notları\Algoritma Projeleri\Uygulamalar 1\Uygulamalar 1\obj\Debug\net8.0\refint\Uygulamalar 1.dll
+C:\Users\acari\OneDrive\Masaüstü\Ders Notları\Algoritma Projeleri\Uygulamalar 1\Uygulamalar 1\obj\Debug\net8.0\Uygulamalar 1.pdb
+C:\Users\acari\OneDrive\Masaüstü\Ders Notları\Algoritma Projeleri\Uygulamalar 1\Uygulamalar 1\obj\Debug\net8.0\Uygulamalar 1.genruntimeconfig.cache
+C:\Users\acari\OneDrive\Masaüstü\Ders Notları\Algoritma Projeleri\Uygulamalar 1\Uygulamalar 1\obj\Debug\net8.0\ref\Uygulamalar 1.dll
